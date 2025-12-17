@@ -1,0 +1,6 @@
+Sensor ID: 101, Value: 23.50
+Sensor ID: 102, Value: 26.10
+Sensor ID: 103, Value: 24.80
+Sensor ID: 104, Value: 25.30
+
+Average Sensor Value: 24.93
